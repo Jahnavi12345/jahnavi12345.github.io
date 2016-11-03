@@ -60,7 +60,14 @@
 	background:#272932;
 }
 
+/*span*/
+h1>span{
+	color: #e74c3c;
+}
 
+h2>span{
+	color: #e74c3c;
+}
 
 
 @font-face {
