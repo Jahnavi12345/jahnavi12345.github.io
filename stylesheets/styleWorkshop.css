@@ -1,3 +1,68 @@
+#nav.affix {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+#nav > .navbar-inner {
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -o-border-radius: 0;
+}
+
+.navbar > .container .navbar-brand {
+    /* margin-left: -20px; */
+}
+.navbar-brand {
+    float: left;
+    font-size: 18px;
+    line-height: 20px;
+    padding-top: 13px;
+}
+
+.navbar{
+	background: #272932;
+	border:none;
+	border-radius:0;
+}
+
+.navbar-nav > li > a{
+	color:#fff;
+	/* font-weight:bold; */
+	font-size: 16px;
+    padding-bottom: 21px;
+    padding-top: 20px;
+    letter-spacing: 0;
+    text-transform: uppercase;
+}
+}
+
+.nav > li > a:focus{
+	background-color: #272932;
+}
+
+.nav > li > a:hover {
+    text-decoration: none;
+}
+
+.nav > li.current a{
+    text-decoration: none;
+}
+
+.navbar-toggle{
+	background:#fff;
+}
+
+.navbar-toggle .icon-bar{
+	background:#272932;
+}
+
+
+
+
 @font-face {
     font-family: 'ralewayextralightnumeric';
     src: url(//do6eyjibs3jse.cloudfront.net/assets/raleway-extralight-webfont-76b395a535d385b10ff52be8cc38461dea2306843a93d41f97ba845d83d5b05b.eot);
