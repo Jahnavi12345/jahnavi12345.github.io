@@ -61,11 +61,11 @@
 }
 
 /*span*/
-h1>span{
+#main-title span{
 	color: #e74c3c;
 }
 
-h2>span{
+#secondary-title span{
 	color: #e74c3c;
 }
 
