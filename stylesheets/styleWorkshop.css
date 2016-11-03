@@ -60,7 +60,7 @@
 	background:#272932;
 }
 
-/*span*/
+/*span
 #main-title span{
 	color: #e74c3c;
 }
@@ -68,7 +68,7 @@
 #secondary-title span{
 	color: #e74c3c;
 }
-
+*/
 
 @font-face {
     font-family: 'ralewayextralightnumeric';
@@ -18475,7 +18475,9 @@ a.btn-masterclass.gift-button:hover {
     color: #FFF
 }
 
-.color{
+/*find me*/
+#secondary-title span, #main-title span {
+    position: relative;
 	color: #e74c3c;
 }
 
