@@ -18471,10 +18471,14 @@ a.btn-masterclass.gift-button:hover {
     text-transform: uppercase
 }
 .hero-uniter h1,
-.hero-uniter h2,
-.hero-uniter span {
+.hero-uniter h2 {
     color: #FFF
 }
+
+.hero-uniter span{
+	color: #e74c3c
+}
+
 .hero-uniter h1,
 .hero-uniter h2 {
     letter-spacing: 2px
