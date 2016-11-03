@@ -18603,11 +18603,10 @@ a.btn-masterclass.gift-button:hover {
     width: 80px;
     height: 80px
 }
-	/*.hero-uniter span {
-	    position: absolute;
-	    top: 17%;
-	    left: 25%
-	}*/
+	.hero-uniter span {
+	    color: #e74c3c;
+	}
+
 .hero-unit img {
     max-width: 100%;
     display: block;
