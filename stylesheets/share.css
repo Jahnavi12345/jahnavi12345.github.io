@@ -12,7 +12,7 @@ body {
     background-color: #eee;
     background-image: linear-gradient(
       hsla(0, 100%, 90%, 0.2), 
-      hsla(0, 100%, 90%, 0.2)),url("14_1.jpg");
+      hsla(0, 100%, 90%, 0.2)),url(14_1.jpg);
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center; 
