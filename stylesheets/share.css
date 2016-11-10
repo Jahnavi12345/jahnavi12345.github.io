@@ -131,7 +131,7 @@ button {
     -webkit-box-shadow: inset 0 1px 0 0 #e52d27;
     -o-box-shadow: inset 0 1px 0 0 #e52d27;
     box-shadow: inset 0 1px 0 0 #e52d27;
-    text-shadow: #FFFF8E 0 1px 0;
+    /*text-shadow: #FFFF8E 0 1px 0;*/
     -moz-background-clip: border;
     -webkit-background-clip: border;
     -o-background-clip: border-box;
