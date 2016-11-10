@@ -27,6 +27,7 @@ h1 {
     padding: 10px;
     margin: 0px 0px 30px 0px;
     text-align: center;
+    border-bottom: 4px solid #e74c3c;
 }
 
 h2 {
