@@ -35,7 +35,7 @@ h1 {
     margin: 0px 0px 30px 0px;
     text-align: center;
     margin-right: 70px;
-    /*border-bottom: 10px solid #e74c3c;*/
+    border-bottom: 10px solid #e74c3c;
 }
 
 h2 {
@@ -46,7 +46,6 @@ h2 {
 
 #logo {
     background-color: #000;
-    border-bottom: 10px solid #e74c3c;
 }
 
 #welcome {
