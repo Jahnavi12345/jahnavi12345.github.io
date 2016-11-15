@@ -97,13 +97,19 @@ h2 {
     font-weight: bold;
 }
 
-#actions, #actions2 {
+#actions {
     margin: 0px;
     padding: 0px;
     overflow: hidden;
     list-style-type: none;
 }
 
+#actions2 {
+    margin: 0px;
+    padding: 10px;
+    overflow: hidden;
+    list-style-type: none;
+}
 
 
 #actions li {
