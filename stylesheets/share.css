@@ -128,6 +128,7 @@ h2 {
 }
 
 #actions2 li {
+    float: center;
     text-align: center;
     border-right: 1px solid #bbb;
     border-left: 1px solid #fff;
