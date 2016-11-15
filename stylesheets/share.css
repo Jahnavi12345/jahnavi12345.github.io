@@ -207,7 +207,7 @@ button.twitter {
     text-shadow: #2578b4 0 1px 0;
 }
 
-button.network {
+button.linkedin {
     background: #0077b5;
     background-image: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#58a8e2),color-stop(100%,#2578b4));
     background-image: -webkit-linear-gradient(#58a8e2,#0077b5);
