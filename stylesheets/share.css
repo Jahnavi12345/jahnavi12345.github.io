@@ -207,6 +207,22 @@ button.twitter {
     text-shadow: #2578b4 0 1px 0;
 }
 
+button.network {
+    background: #0077b5;
+    background-image: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#58a8e2),color-stop(100%,#2578b4));
+    background-image: -webkit-linear-gradient(#58a8e2,#0077b5);
+    background-image: -moz-linear-gradient(#58a8e2,#0077b5);
+    background-image: -o-linear-gradient(#58a8e2,#0077b5);
+    background-image: -ms-linear-gradient(#58a8e2,#0077b5);
+    background-image: linear-gradient(#58a8e2,#0077b5);
+    color: #fff;
+    -moz-box-shadow: inset 0 1px 0 0 #88c1ec;
+    -webkit-box-shadow: inset 0 1px 0 0 #88c1ec;
+    -o-box-shadow: inset 0 1px 0 0 #88c1ec;
+    box-shadow: inset 0 1px 0 0 #88c1ec;
+    text-shadow: #0077b5 0 1px 0;
+}
+
 #footer {
     height: 50px;
     position: fixed;
