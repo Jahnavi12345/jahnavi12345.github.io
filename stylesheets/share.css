@@ -97,7 +97,7 @@ h2 {
     font-weight: bold;
 }
 
-#actions {
+#actions, #actions2 {
     margin: 0px;
     padding: 0px;
     overflow: hidden;
@@ -127,7 +127,11 @@ h2 {
     border-right: none;
 }
 
-
+#actions2 li {
+    text-align: center;
+    border-right: 1px solid #bbb;
+    border-left: 1px solid #fff;
+}
 
 button {
     font-family: "Open Sans", sans-serif;
