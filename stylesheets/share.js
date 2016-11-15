@@ -32,7 +32,7 @@ $(function() {
     });
     
     $('.play').on('click', function() {
-        window.location.href = "http://kck.st/TH0NAN";
+        window.location.href = "https://www.youtube.com/channel/UCCzY6t8iOaHixF_PgBjCeTA";
     });
     
 });
